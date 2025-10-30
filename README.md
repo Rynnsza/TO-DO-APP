@@ -21,11 +21,11 @@ Web Browser Modern: Anda hanya memerlukan web browser modern seperti Google Chro
 📂 Susunan Proyek
 Struktur direktori proyek ini adalah sebagai berikut:
 
-rynnsza/to-do-app/
-├── index.html          <-- Struktur dasar aplikasi
-├── body.css            <-- Penataan gaya untuk aplikasi
-├── script.js           <-- Logika JavaScript
-└── README.md           <-- File informasi proyek (Anda sedang membacanya)
+ rynnsza/to-do-app/
+ ├── index.html          <-- Struktur dasar aplikasi
+ ├── body.css            <-- Penataan gaya untuk aplikasi
+ ├── script.js           <-- Logika JavaScript
+ └── README.md           <-- File informasi proyek (Anda sedang membacanya)
 
 🚀 Contoh Penggunaan
 Untuk menjalankan aplikasi ini:
@@ -36,6 +36,7 @@ Bash
 
 git clone https://github.com/rynnsza/to-do-app.git
 cd to-do-app
+
 2.Buka Aplikasi: Buka file index.html langsung di web browser pilihan Anda.
 
 3.Menambah Tugas:
