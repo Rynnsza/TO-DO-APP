@@ -67,7 +67,7 @@ Proyek ini dilisensikan di bawah Lisensi MIT.
 
 MIT License
 
-Copyright (c) [Tahun Saat Ini, misalnya 2025] [Nama Pemilik Hak Cipta, @rynnsza]
+Copyright (c) [2025] [Hak Cipta, @rynnsza]
 
 Izin dengan ini diberikan, tanpa biaya, kepada setiap orang yang memperoleh salinan perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk memperdagangkan Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak, dan untuk mengizinkan orang kepada siapa Perangkat Lunak disediakan untuk melakukannya, tunduk pada kondisi berikut:
 
